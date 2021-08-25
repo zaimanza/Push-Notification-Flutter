@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "973549379236",
+    "project_id": "glowing-anagram-276610",
+    "storage_bucket": "glowing-anagram-276610.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:973549379236:android:68098b8b3e77391dd11031",
+        "android_client_info": {
+          "package_name": "com.example.hirodeli003"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "973549379236-msl4tls3bfc1bha38m143lfircfcma43.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCm5ebIqYXY5-oy-B5UXNrGOHYAa30PCe0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "973549379236-msl4tls3bfc1bha38m143lfircfcma43.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:973549379236:android:e23c5839030ec3a1d11031",
+        "android_client_info": {
+          "package_name": "pushnotificationtutorial.pushnotificationtutorial"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "973549379236-msl4tls3bfc1bha38m143lfircfcma43.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCm5ebIqYXY5-oy-B5UXNrGOHYAa30PCe0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "973549379236-msl4tls3bfc1bha38m143lfircfcma43.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
